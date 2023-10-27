@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 👨‍💻 All of my projects are available at [https://tanmay9tailed.github.io/Portfolio/](https://tanmay9tailed.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [https://tanmay9tailed.github.io](https://tanmay9tailed.github.io)
 
 - 💬 Ask me about **Frontend development**
 
